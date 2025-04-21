@@ -1,0 +1,14 @@
+ body {
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            width: 600px;
+            margin: auto;
+            padding: 20px;
+            background-color:darkblue;
+            border-radius: 10px;
+            box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+        }
